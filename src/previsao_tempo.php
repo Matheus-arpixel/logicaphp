@@ -9,19 +9,3 @@ $graus = "31";
  {
     echo $dia . " Será nublado ";
  }
-// if($graus >= 35)
-// {
-//     echo $dia . " Vai ser quente pra um caralho";
-// }
-// else
-// {
-//     echo $dia . " Quentinho só";
-// }
-// if($graus <=15)
-// {
-//     echo $dia . " Vai ser frio pra cacete";
-// } 
-// else
-// {
-//     echo $dia . " Friozin gostoso";
-// }
